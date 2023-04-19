@@ -1,7 +1,8 @@
 # TASK MANAGER
 
-A crud thart lists, updates, and  deletes a task made by the user, to practice creating an API using the REST concepts
+A CRUD application that allows users to create, read, update, and delete tasks, designed to practice implementing a RESTful API using REST concepts.
 
-Tools: 
+Tools:
+
 - Nodejs - Express.js
 - MongoDB - Mongoosejs
